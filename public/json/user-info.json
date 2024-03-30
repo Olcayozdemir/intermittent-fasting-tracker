@@ -1,0 +1,17 @@
+{
+    "user": {
+        "id": 1,
+        "name": "John Doe",
+        "email": "johndoe@example.com"
+    },
+    "activeFasting": {
+        "id": 1,
+        "start": "08:00",
+        "end": "16:00",
+        "status": "active"
+    },
+    "stats": {
+        "totalHours": 57,
+        "completedFasts": 2
+    }
+}
